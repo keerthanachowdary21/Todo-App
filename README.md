@@ -14,10 +14,10 @@
    - Implement a Login feature where registered users can authenticate themselves using JWT tokens.
    - Secure the API routes by validating the JWT token to ensure only authenticated users can access certain features.
 2. Todo Management:
-  -Implement Create, Read, Update, Delete (CRUD) operations for managing daily tasks.
-  -Allow users to add new tasks, view their list of tasks, edit existing tasks, and delete tasks they no longer need.  -
-  -Enable users to update the status of each task. The available statuses should include "done," "pending," "in progress," and "completed."
+  - Implement Create, Read, Update, Delete (CRUD) operations for managing daily tasks.
+  - Allow users to add new tasks, view their list of tasks, edit existing tasks, and delete tasks they no longer need.
+  - Enable users to update the status of each task. The available statuses should include "done," "pending," "in progress," and "completed."
 3. User Profile Management:
-   -Implement CRUD operations for managing the user’s profile.
-   -Allow users to update their profile information, such as name, email, and password.
-   -Ensure that profile updates are only accessible to the authenticated user.
+   - Implement CRUD operations for managing the user’s profile.
+   - Allow users to update their profile information, such as name, email, and password.
+   - Ensure that profile updates are only accessible to the authenticated user.
